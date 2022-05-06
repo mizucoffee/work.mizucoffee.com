@@ -3,7 +3,7 @@
     "target": "es3",
     "module": "commonjs",
     "sourceMap": true,
-    "outDir": "./src/js",
+    "outDir": "./dist/js",
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,
     "strict": true,

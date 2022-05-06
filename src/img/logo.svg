@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 929 108" style="enable-background:new 0 0 929 108;" xml:space="preserve">
+    <style>
+      rect {
+        fill: #ffffff;
+        fill-rule: evenodd;
+        clip-rule: evenodd;
+      }
+    </style>
+    <rect x="18.946" y="-0.048" width="18.946" height="108.095" />
+    <rect x="0" y="19.255" width="113.678" height="19.303" />
+    <rect x="56.839" y="19.255" width="18.946" height="88.792" />
+    <rect x="94.732" y="19.255" width="18.946" height="88.792" />
+    <rect x="126.379" y="19.255" width="18.946" height="88.792" />
+    <rect x="158.026" y="19.255" width="94.732" height="19.303" />
+    <rect x="176.972" y="54" width="56.839" height="19.303" />
+    <rect x="158.026" y="88.745" width="94.732" height="19.303" />
+    <rect x="265.459" y="19.255" width="18.946" height="88.792" />
+    <rect x="265.459" y="88.745" width="87.153" height="19.303" />
+    <rect x="333.666" y="19.255" width="18.946" height="88.792" />
+    <rect x="365.312" y="19.255" width="87.153" height="19.303" />
+    <rect x="365.312" y="19.255" width="18.946" height="88.792" />
+    <rect x="365.312" y="88.745" width="87.153" height="19.303" />
+    <rect x="465.166" y="19.255" width="87.153" height="19.303" />
+    <rect x="465.166" y="19.255" width="18.946" height="88.792" />
+    <rect x="465.166" y="88.745" width="87.153" height="19.303" />
+    <rect x="533.372" y="19.255" width="18.946" height="88.792" />
+    <rect x="499.269" y="54" width="18.946" height="19.303" />
+    <rect x="583.967" y="19.255" width="56.839" height="19.303" />
+    <rect x="583.967" y="19.255" width="18.946" height="88.792" />
+    <rect x="565.02" y="54" width="75.785" height="19.303" />
+    <rect x="672.453" y="19.255" width="56.839" height="19.303" />
+    <rect x="672.453" y="19.255" width="18.946" height="88.792" />
+    <rect x="653.506" y="54" width="75.786" height="19.303" />
+    <rect x="741.991" y="19.255" width="87.153" height="19.303" />
+    <rect x="741.991" y="54" width="87.153" height="19.303" />
+    <rect x="741.991" y="88.745" width="87.153" height="19.303" />
+    <rect x="741.991" y="19.255" width="18.946" height="88.792" />
+    <rect x="810.199" y="19.255" width="18.946" height="54.048" />
+    <rect x="841.846" y="19.255" width="87.153" height="19.303" />
+    <rect x="841.846" y="54" width="87.153" height="19.303" />
+    <rect x="841.846" y="88.745" width="87.153" height="19.303" />
+    <rect x="841.846" y="19.255" width="18.946" height="88.792" />
+    <rect x="910.054" y="19.255" width="18.946" height="54.048" />
+  </svg>
